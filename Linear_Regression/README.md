@@ -7,6 +7,7 @@ This assignment requires you to build linear regression model in Python using st
 ## Dataset
 ### Wine Quality Dataset
 Context: This dataset is related to the white variant of the Portuguese "Vinho Verde" wine. The goal is to model wine quality based on physicochemical tests.
+Classes are ordered and not balanced. There are no missing values.
 
 Relevant Publication:
 
