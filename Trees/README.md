@@ -1,0 +1,22 @@
+# Trees
+### Due: 10/10/2025
+
+## Project Description
+This assignment requires you to build and compare tree models in Python using standard machine learning libraries.
+
+## Dataset
+### Wine Quality Dataset
+Context: This dataset is related to the white variant of the Portuguese "Vinho Verde" wine. The goal is to model wine quality based on physicochemical tests.
+Classes are ordered and not balanced. There are no missing values.
+
+This CSV is stored in this repository. Use the raw URL in code. 
+
+Relevant Publication:
+
+P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties.
+In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
+
+## How to Run Code
+Use Google Colab
+1. Open the notebook Linear_Regression.ipynb in Colab
+2. Go to Runtime -> Run all
