@@ -6,3 +6,5 @@ This course will focus on the application of computational tools to solve machin
 
 ### Assignments So Far
 1. Linear Regression
+2. Tree Classifiers (Decision Trees, Random Forest, AdaBoost, XGBoost)
+3. CNN
