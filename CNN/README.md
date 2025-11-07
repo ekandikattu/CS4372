@@ -58,5 +58,5 @@ Use Google Colab
 1. Open the notebook Linear_Regression.ipynb in Colab
 2. Go to Runtime -> Run all
 
-## 10. Contact
+## 7. Contact
 If issues arise with dataset loading or fine-tuning, rerun the cell that builds datasets or re-install TensorFlow/Keras dependencies.
