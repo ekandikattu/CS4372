@@ -14,7 +14,7 @@ CNN/data/test
 
 Each folder contains one subfolder per jellyfish class.
 
-## 5. Hyperparameter Tuning
+## 3. Hyperparameter Tuning
 A sweep of 8 experiments was conducted, varying:
 
 - Image size  
@@ -29,7 +29,7 @@ A sweep of 8 experiments was conducted, varying:
 
 A CSV log (`experiments.csv`) and final submission table were generated automatically.
 
-## 7. Submission Output Generated
+## 4. Submission Output Generated
 
 ### 1. Training History Plots
 - Accuracy vs Epoch  
@@ -49,11 +49,11 @@ Includes:
 - Validation accuracy  
 - Test accuracy  
 
-## 8. Assumptions
+## 5. Assumptions
 - Dataset is properly organized into `train/valid/test` directories.
 - All model preprocessing occurs outside the model (no Lambda layers) to allow safe serialization.
 
-## How to Run Code
+## 6. How to Run Code
 Use Google Colab
 1. Open the notebook Linear_Regression.ipynb in Colab
 2. Go to Runtime -> Run all
