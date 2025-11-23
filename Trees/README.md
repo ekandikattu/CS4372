@@ -18,5 +18,5 @@ In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
 ## How to Run Code
 Use Google Colab
-1. Open the notebook Linear_Regression.ipynb in Colab
+1. Open the notebook Trees.ipynb in Colab
 2. Go to Runtime -> Run all
