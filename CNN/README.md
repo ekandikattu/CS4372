@@ -55,7 +55,7 @@ Includes:
 
 ## 6. How to Run Code
 Use Google Colab
-1. Open the notebook Linear_Regression.ipynb in Colab
+1. Open the notebook Assignment3_CNN.ipynb in Colab
 2. Go to Runtime -> Run all
 
 ## 7. Contact
